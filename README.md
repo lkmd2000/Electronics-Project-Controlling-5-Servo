@@ -7,6 +7,12 @@
 1. Breadboard.
 2. 5 Servo motors.
 3. Arduino Uno R3.
+4. Wires.
 
 ## Simulation of the circuit: 
 https://www.tinkercad.com/things/05MZyBhOXuf-stunning-duup-waasa/editel?tenant=circuits
+
+## the code:
+You can see the code used frome the uploded files.
+
+> This design have been created as a task for the **" smart methods "** witch is a national commercial corporation. This task is in the electrical engineering bath.
