@@ -6,13 +6,13 @@
 ## the circuit:
 <img width="521" alt="Screen Shot 2021-08-16 at 8 03 09 AM" src="https://user-images.githubusercontent.com/88155243/129513617-265320f4-e691-4a92-9f95-35b2dcfbabd7.png">
 
-## The Component:
+## Component:
 1. Breadboard.
 2. 5 Servo motors.
 3. Arduino Uno R3.
 4. Wires.
 
-## the code:
+## the Code:
 You can see the code used frome the uploded files. 
 
 ## Simulation of the circuit: 
